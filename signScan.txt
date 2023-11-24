@@ -1,0 +1,100 @@
+# Nmap 7.94 scan initiated Thu Nov  2 11:57:31 2023 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sn -oN signScan.txt -oX C:\\Users\\VICTOR~1.MEN\\AppData\\Local\\Temp\\zenmap-xigwwmhg.xml 10.16.20.1/24
+Nmap scan report for 10.16.20.6
+Host is up (0.0020s latency).
+MAC Address: EC:1D:8B:3C:63:90 (Cisco Systems)
+Nmap scan report for 10.16.20.20
+Host is up (0.0030s latency).
+MAC Address: 5C:60:BA:3C:11:0D (HP)
+Nmap scan report for 10.16.20.28
+Host is up (0.0070s latency).
+MAC Address: 00:17:61:CF:6C:D6 (Private)
+Nmap scan report for 10.16.20.29
+Host is up (0.0060s latency).
+MAC Address: 00:17:61:CF:6C:D2 (Private)
+Nmap scan report for 10.16.20.30
+Host is up (0.0060s latency).
+MAC Address: 14:CB:19:7C:9B:F9 (HP)
+Nmap scan report for 10.16.20.33
+Host is up (0.0040s latency).
+MAC Address: C8:1F:EA:F2:C0:25 (Avaya)
+Nmap scan report for 10.16.20.34
+Host is up (0.0030s latency).
+MAC Address: 68:FC:CA:2D:B9:EF (Samsung Electronics)
+Nmap scan report for 10.16.20.37
+Host is up (0.00s latency).
+MAC Address: 7C:4D:8F:0E:63:77 (Unknown)
+Nmap scan report for 10.16.20.38
+Host is up (0.0050s latency).
+MAC Address: C0:18:03:30:5D:80 (HP)
+Nmap scan report for 10.16.20.40
+Host is up (0.0050s latency).
+MAC Address: 7C:4D:8F:0E:63:C3 (Unknown)
+Nmap scan report for 10.16.20.41
+Host is up (0.0050s latency).
+MAC Address: 84:69:93:68:6D:AC (HP)
+Nmap scan report for 10.16.20.42
+Host is up (0.0050s latency).
+MAC Address: 80:E8:2C:E2:EE:48 (Hewlett Packard)
+Nmap scan report for 10.16.20.45
+Host is up (0.0040s latency).
+MAC Address: 84:69:93:68:6A:9A (HP)
+Nmap scan report for 10.16.20.49
+Host is up (0.0020s latency).
+MAC Address: 38:CA:84:48:2C:C0 (HP)
+Nmap scan report for 10.16.20.50
+Host is up (0.0020s latency).
+MAC Address: C0:18:03:30:2D:BA (HP)
+Nmap scan report for 10.16.20.51
+Host is up (0.0010s latency).
+MAC Address: E0:73:E7:28:0D:E4 (Unknown)
+Nmap scan report for 10.16.20.59
+Host is up (0.0030s latency).
+MAC Address: 00:E0:4C:68:00:D6 (Realtek Semiconductor)
+Nmap scan report for 10.16.20.60
+Host is up (0.011s latency).
+MAC Address: 00:E0:4C:68:01:B1 (Realtek Semiconductor)
+Nmap scan report for 10.16.20.61
+Host is up (0.010s latency).
+MAC Address: 84:69:93:00:F7:5A (HP)
+Nmap scan report for 10.16.20.67
+Host is up (0.0060s latency).
+MAC Address: 84:69:93:00:F8:AF (HP)
+Nmap scan report for 10.16.20.79
+Host is up (0.0010s latency).
+MAC Address: C0:18:03:6B:4C:F1 (HP)
+Nmap scan report for 10.16.20.81
+Host is up (0.0010s latency).
+MAC Address: 84:69:93:68:68:A9 (HP)
+Nmap scan report for 10.16.20.111
+Host is up (0.0010s latency).
+MAC Address: 44:AE:25:C5:1E:56 (Cisco Systems)
+Nmap scan report for 10.16.20.112
+Host is up (0.0010s latency).
+MAC Address: 88:FC:5D:FC:FD:56 (Cisco Systems)
+Nmap scan report for 10.16.20.113
+Host is up (0.0010s latency).
+MAC Address: 88:FC:5D:FC:F1:56 (Cisco Systems)
+Nmap scan report for 10.16.20.114
+Host is up (0.0020s latency).
+MAC Address: 4C:EC:0F:82:EB:D6 (Unknown)
+Nmap scan report for 10.16.20.126
+Host is up (0.0040s latency).
+MAC Address: 00:E0:4C:68:01:D8 (Realtek Semiconductor)
+Nmap scan report for 10.16.20.140
+Host is up (0.0010s latency).
+MAC Address: C0:18:03:6B:4B:75 (HP)
+Nmap scan report for 10.16.20.151
+Host is up (0.0010s latency).
+MAC Address: 38:CA:84:40:85:AC (HP)
+Nmap scan report for 10.16.20.154
+Host is up (0.00094s latency).
+MAC Address: 7C:4D:8F:0E:63:7A (Unknown)
+Nmap scan report for 10.16.20.171
+Host is up (0.0030s latency).
+MAC Address: 84:69:93:68:63:1E (HP)
+Nmap scan report for 10.16.20.173
+Host is up (0.0030s latency).
+MAC Address: C0:18:03:C1:B3:81 (HP)
+Nmap scan report for host.docker.internal (10.16.20.165)
+Host is up.
+# Nmap done at Thu Nov  2 11:57:34 2023 -- 256 IP addresses (33 hosts up) scanned in 2.50 seconds
